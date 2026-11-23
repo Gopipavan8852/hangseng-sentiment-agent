@@ -110,7 +110,7 @@ Important generated files include:
 
 ## Author
 
-B.Tech Data Science Student
+A.GopipavanS
 
 ## Disclaimer
 
