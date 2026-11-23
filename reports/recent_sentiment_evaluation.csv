@@ -1,0 +1,5 @@
+model,train_records,test_records,MAE_Return_Percent,RMSE_Return_Percent,Directional_Accuracy_Percent
+Linear Regression - Market Only,6,7,2.6770768021630316,3.37011401651981,57.14285714285714
+Linear Regression - Market + Sentiment,6,7,2.8693764714766936,3.5419960898425757,42.857142857142854
+Random Forest - Market Only,6,7,1.4719298613528335,1.9181152979755636,71.42857142857143
+Random Forest - Market + Sentiment,6,7,1.5225866043623335,1.9681512850573326,71.42857142857143

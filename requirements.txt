@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+yfinance
+apify-client
+exa-py
+tavily-python
+streamlit
+plotly
+matplotlib
+nltk
+python-dotenv
+requests
+joblib
